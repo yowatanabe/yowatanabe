@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [‘aws_chatbot_slack_channel_configuration‘ has become available starting from AWS Provider v5.61.0.](https://medium.com/@yoshiyuki.watanabe/aws-chatbot-slack-channel-configuration-has-become-available-starting-from-aws-provider-v5-61-0-c775b5affd93?source=rss-a0c403e0ca02------2)
+- [Memo on Managing WAF with Terraform via Terraform Import](https://medium.com/@yoshiyuki.watanabe/memo-on-managing-waf-with-terraform-via-terraform-import-205ac4ed1ca7?source=rss-a0c403e0ca02------2)
+- [Monitoring EC2 with New Relic](https://medium.com/@yoshiyuki.watanabe/monitoring-ec2-with-new-relic-937cbdb43470?source=rss-a0c403e0ca02------2)
+- [Using Infracost with VSCode](https://medium.com/@yoshiyuki.watanabe/using-infracost-with-vscode-aa1028aeb322?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
