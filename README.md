@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yowatanabe</h1>
-<h3 align="center">Infrastructure Engineer / SRE</h3>
+<h3 align="center">SRE / Cloud Engineer / Infrastructure Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yowatanabe&label=Profile%20views&color=0e75b6&style=flat" alt="yowatanabe" /> </p>
 
@@ -7,9 +7,16 @@
 
 - 🌱 I’m currently learning **SRE, DevOps, AWS, Go, Python, Terraform, SQL**
 
+- 📝 I regularly write articles on [https://medium.com/@yoshiyuki.watanabe](https://medium.com/@yoshiyuki.watanabe)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yoshiyuki-watanabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoshiyuki-watanabe" height="30" width="40" /></a>
+<a href="https://medium.com/@yoshiyuki.watanabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yoshiyuki.watanabe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
