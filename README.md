@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Query Application Load Balancer &lpar;ALB&rpar; Access Logs with Amazon Athena](https://medium.com/@yoshiyuki.watanabe/query-application-load-balancer-alb-access-logs-with-amazon-athena-4b355612694b?source=rss-a0c403e0ca02------2)
 - [AWS WAF rate-based rules support lower rate limits.](https://medium.com/@yoshiyuki.watanabe/aws-waf-rate-based-rules-support-lower-rate-limits-ec79e79b5801?source=rss-a0c403e0ca02------2)
 - [Today I Learned: The official status page for services offered by Docker](https://medium.com/@yoshiyuki.watanabe/today-i-learned-the-official-status-page-for-services-offered-by-docker-32e784eae6e0?source=rss-a0c403e0ca02------2)
 - [‘aws_chatbot_slack_channel_configuration‘ has become available starting from AWS Provider v5.61.0.](https://medium.com/@yoshiyuki.watanabe/aws-chatbot-slack-channel-configuration-has-become-available-starting-from-aws-provider-v5-61-0-c775b5affd93?source=rss-a0c403e0ca02------2)
