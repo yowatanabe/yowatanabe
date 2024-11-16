@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remove all inbound and outbound rules from the default security groups in all regions](https://medium.com/@yoshiyuki.watanabe/remove-all-inbound-and-outbound-rules-from-the-default-security-groups-in-all-regions-2d46581f79d0?source=rss-a0c403e0ca02------2)
 - [Example Queries for Analyzing AWS WAF Logs with CloudWatch Logs Insights](https://medium.com/@yoshiyuki.watanabe/example-queries-for-analyzing-aws-waf-logs-with-cloudwatch-logs-insights-9cb1f2d04c46?source=rss-a0c403e0ca02------2)
 - [Bash Script to Execute Commands from a Text File](https://medium.com/@yoshiyuki.watanabe/bash-script-to-execute-commands-from-a-text-file-76d8bd15f1e2?source=rss-a0c403e0ca02------2)
 - [The AUTO_INCREMENT attribute is not migrated when using MySQL as a source in AWS DMS](https://medium.com/@yoshiyuki.watanabe/the-auto-increment-attribute-is-not-migrated-when-using-mysql-as-a-source-in-aws-dms-6b4b4aad9f4d?source=rss-a0c403e0ca02------2)
 - [Query Application Load Balancer &lpar;ALB&rpar; Access Logs with Amazon Athena](https://medium.com/@yoshiyuki.watanabe/query-application-load-balancer-alb-access-logs-with-amazon-athena-4b355612694b?source=rss-a0c403e0ca02------2)
 - [AWS WAF rate-based rules support lower rate limits.](https://medium.com/@yoshiyuki.watanabe/aws-waf-rate-based-rules-support-lower-rate-limits-ec79e79b5801?source=rss-a0c403e0ca02------2)
 - [Today I Learned: The official status page for services offered by Docker](https://medium.com/@yoshiyuki.watanabe/today-i-learned-the-official-status-page-for-services-offered-by-docker-32e784eae6e0?source=rss-a0c403e0ca02------2)
-- [‘aws_chatbot_slack_channel_configuration‘ has become available starting from AWS Provider v5.61.0.](https://medium.com/@yoshiyuki.watanabe/aws-chatbot-slack-channel-configuration-has-become-available-starting-from-aws-provider-v5-61-0-c775b5affd93?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
