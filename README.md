@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Changing the DB Instance Class of an Amazon Aurora DB Instance with Terraform](https://medium.com/@yoshiyuki.watanabe/tips-for-changing-the-db-instance-class-of-an-amazon-aurora-db-instance-with-terraform-7c27140e081a?source=rss-a0c403e0ca02------2)
 - [Things to Check When an EventBridge Created with Terraform is Not Working](https://medium.com/@yoshiyuki.watanabe/things-to-check-when-an-eventbridge-created-with-terraform-is-not-working-1af75de2ad70?source=rss-a0c403e0ca02------2)
 - [When setting up records in Route 53 for a CloudFront distribution, whether to set ALIAS or CNAME…](https://medium.com/@yoshiyuki.watanabe/when-setting-up-records-in-route-53-for-a-cloudfront-distribution-whether-to-set-alias-or-cname-109ec6483bc6?source=rss-a0c403e0ca02------2)
 - [Behavior when the maximum number of Security Group rules is exceeded when terraform apply is…](https://medium.com/@yoshiyuki.watanabe/behavior-when-the-maximum-number-of-security-group-rules-is-exceeded-when-terraform-apply-is-5ccccc4eb9e1?source=rss-a0c403e0ca02------2)
 - [The mistake I made with the filter pattern in AWS CloudWatch Logs metric filters](https://medium.com/@yoshiyuki.watanabe/the-mistake-i-made-with-the-filter-pattern-in-aws-cloudwatch-logs-metric-filters-453579d30714?source=rss-a0c403e0ca02------2)
 - [Restrict access to Application Load Balancer &lpar;ALB&rpar; only via CloudFront](https://medium.com/@yoshiyuki.watanabe/restrict-access-to-application-load-balancer-alb-only-via-cloudfront-6e021ea250c0?source=rss-a0c403e0ca02------2)
 - [Terraform Data Sources: Implicit Dependencies and How to Avoid Them](https://medium.com/@yoshiyuki.watanabe/terraform-data-sources-implicit-dependencies-and-how-to-avoid-them-d753e3048d00?source=rss-a0c403e0ca02------2)
-- [Check Host header in ALB listener rules](https://medium.com/@yoshiyuki.watanabe/check-host-header-in-alb-listener-rules-2710236084c6?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
