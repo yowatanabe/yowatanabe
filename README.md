@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Improving ECS Deployment Efficiency with ecspresso](https://medium.com/@yoshiyuki.watanabe/improving-ecs-deployment-efficiency-with-ecspresso-f08397879a35?source=rss-a0c403e0ca02------2)
 - [Making ECR pull through cache rule Work Across AWS Accounts](https://medium.com/@yoshiyuki.watanabe/making-ecr-pull-through-cache-rule-work-across-aws-accounts-48b95e44bbf3?source=rss-a0c403e0ca02------2)
 - [Cost Comparison: Fargate Spot vs. Compute Savings Plans](https://medium.com/@yoshiyuki.watanabe/cost-comparison-fargate-spot-vs-compute-savings-plans-04bc9c145210?source=rss-a0c403e0ca02------2)
 - [Optimizing Amazon Aurora Costs with Aurora I/O-Optimized](https://medium.com/@yoshiyuki.watanabe/optimizing-amazon-aurora-costs-with-aurora-i-o-optimized-8ebfbeff7e6c?source=rss-a0c403e0ca02------2)
 - [Setting up an SFTP server on AWS](https://medium.com/@yoshiyuki.watanabe/setting-up-an-sftp-server-on-aws-5ad73869fa48?source=rss-a0c403e0ca02------2)
 - [AWS WAF Introduces a New Feature: Data Protection](https://medium.com/@yoshiyuki.watanabe/aws-waf-introduces-a-new-feature-data-protection-a7c6cb76caa0?source=rss-a0c403e0ca02------2)
 - [Switched IP restrictions from the ALB security group to ALB listener-based rules](https://medium.com/@yoshiyuki.watanabe/switched-ip-restrictions-from-the-alb-security-group-to-alb-listener-based-rules-de01f39b0cd8?source=rss-a0c403e0ca02------2)
-- [Connecting to a private Amazon RDS DB Instance from AWS CloudShell](https://medium.com/@yoshiyuki.watanabe/connecting-to-a-private-amazon-rds-db-instance-from-aws-cloudshell-058bef8a8922?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
