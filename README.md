@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Apply Custom Responses to AWS Managed Rules in AWS WAF](https://medium.com/@yoshiyuki.watanabe/how-to-apply-custom-responses-to-aws-managed-rules-in-aws-waf-0fd4246c797d?source=rss-a0c403e0ca02------2)
 - [Easy Implementation with CloudFront Functions: Use Cases for Basic Authentication and Redirects](https://medium.com/@yoshiyuki.watanabe/easy-implementation-with-cloudfront-functions-use-cases-for-basic-authentication-and-redirects-ed82949e0301?source=rss-a0c403e0ca02------2)
 - [Analyze RI Assignment per Instance Using CUR 2.0 × DuckDB](https://medium.com/@yoshiyuki.watanabe/analyze-ri-assignment-per-instance-using-cur-2-0-duckdb-b306e63dcbc8?source=rss-a0c403e0ca02------2)
 - [Introduction to AWS WAF: Protecting Asynchronous Architectures from SQL Injection](https://medium.com/@yoshiyuki.watanabe/introduction-to-aws-waf-protecting-asynchronous-architectures-from-sql-injection-f933bfd06178?source=rss-a0c403e0ca02------2)
 - [Intro to ChatOps: Log Monitoring with Amazon Q Developer &lpar;formerly AWS Chatbot&rpar; and Slack](https://medium.com/@yoshiyuki.watanabe/intro-to-chatops-log-monitoring-with-amazon-q-developer-formerly-aws-chatbot-and-slack-4312325fa600?source=rss-a0c403e0ca02------2)
 - [Improving ECS Deployment Efficiency with ecspresso](https://medium.com/@yoshiyuki.watanabe/improving-ecs-deployment-efficiency-with-ecspresso-f08397879a35?source=rss-a0c403e0ca02------2)
 - [Making ECR pull through cache rule Work Across AWS Accounts](https://medium.com/@yoshiyuki.watanabe/making-ecr-pull-through-cache-rule-work-across-aws-accounts-48b95e44bbf3?source=rss-a0c403e0ca02------2)
-- [Cost Comparison: Fargate Spot vs. Compute Savings Plans](https://medium.com/@yoshiyuki.watanabe/cost-comparison-fargate-spot-vs-compute-savings-plans-04bc9c145210?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
