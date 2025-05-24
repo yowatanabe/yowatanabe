@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Account Event Aggregation with Amazon EventBridge API Destinations and NewRelic](https://medium.com/@yoshiyuki.watanabe/multi-account-event-aggregation-with-amazon-eventbridge-api-destinations-and-newrelic-e3deb6dda1c1?source=rss-a0c403e0ca02------2)
 - [Easily Improve Operations with Amazon EventBridge and AWS Lambda: Automate Reporting of Aged RDS…](https://medium.com/@yoshiyuki.watanabe/easily-improve-operations-with-amazon-eventbridge-and-aws-lambda-automate-reporting-of-aged-rds-584991e5aa5c?source=rss-a0c403e0ca02------2)
 - [How to Apply Custom Responses to AWS Managed Rules in AWS WAF](https://medium.com/@yoshiyuki.watanabe/how-to-apply-custom-responses-to-aws-managed-rules-in-aws-waf-0fd4246c797d?source=rss-a0c403e0ca02------2)
 - [Easy Implementation with CloudFront Functions: Use Cases for Basic Authentication and Redirects](https://medium.com/@yoshiyuki.watanabe/easy-implementation-with-cloudfront-functions-use-cases-for-basic-authentication-and-redirects-ed82949e0301?source=rss-a0c403e0ca02------2)
 - [Analyze RI Assignment per Instance Using CUR 2.0 × DuckDB](https://medium.com/@yoshiyuki.watanabe/analyze-ri-assignment-per-instance-using-cur-2-0-duckdb-b306e63dcbc8?source=rss-a0c403e0ca02------2)
 - [Introduction to AWS WAF: Protecting Asynchronous Architectures from SQL Injection](https://medium.com/@yoshiyuki.watanabe/introduction-to-aws-waf-protecting-asynchronous-architectures-from-sql-injection-f933bfd06178?source=rss-a0c403e0ca02------2)
 - [Intro to ChatOps: Log Monitoring with Amazon Q Developer &lpar;formerly AWS Chatbot&rpar; and Slack](https://medium.com/@yoshiyuki.watanabe/intro-to-chatops-log-monitoring-with-amazon-q-developer-formerly-aws-chatbot-and-slack-4312325fa600?source=rss-a0c403e0ca02------2)
-- [Improving ECS Deployment Efficiency with ecspresso](https://medium.com/@yoshiyuki.watanabe/improving-ecs-deployment-efficiency-with-ecspresso-f08397879a35?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
