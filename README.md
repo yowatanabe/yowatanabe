@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with DefectDojo: Managing SAST and DAST Findings in One Place](https://medium.com/@yoshiyuki.watanabe/getting-started-with-defectdojo-managing-sast-and-dast-findings-in-one-place-945765f17123?source=rss-a0c403e0ca02------2)
 - [Automating Web Application Security Scans Using OWASP ZAP in AWS CodeBuild](https://medium.com/@yoshiyuki.watanabe/automating-web-application-security-scans-using-owasp-zap-in-aws-codebuild-127885449176?source=rss-a0c403e0ca02------2)
 - [Hands-On with Amazon Inspector’s Latest Feature: Code Security](https://medium.com/@yoshiyuki.watanabe/hands-on-with-amazon-inspectors-latest-feature-code-security-fd276d5520f3?source=rss-a0c403e0ca02------2)
 - [Getting Started with DAST: Detecting Vulnerabilities Early with GitHub Actions](https://medium.com/@yoshiyuki.watanabe/getting-started-with-dast-detecting-vulnerabilities-early-with-github-actions-ab8290d12d60?source=rss-a0c403e0ca02------2)
 - [Getting Started with SAST: Detecting Vulnerabilities Early with GitHub Actions](https://medium.com/@yoshiyuki.watanabe/getting-started-with-sast-detecting-vulnerabilities-early-with-github-actions-57ecd54e8ccb?source=rss-a0c403e0ca02------2)
 - [Designing AWS WAF Rules for SaaS Multi-Tenant Architectures — Techniques for Safely Migrating New…](https://medium.com/@yoshiyuki.watanabe/designing-aws-waf-rules-for-saas-multi-tenant-architectures-techniques-for-safely-migrating-new-0d256ba5a0b3?source=rss-a0c403e0ca02------2)
 - [Multi-Account Event Aggregation with Amazon EventBridge API Destinations and NewRelic](https://medium.com/@yoshiyuki.watanabe/multi-account-event-aggregation-with-amazon-eventbridge-api-destinations-and-newrelic-e3deb6dda1c1?source=rss-a0c403e0ca02------2)
-- [Easily Improve Operations with Amazon EventBridge and AWS Lambda: Automate Reporting of Aged RDS…](https://medium.com/@yoshiyuki.watanabe/easily-improve-operations-with-amazon-eventbridge-and-aws-lambda-automate-reporting-of-aged-rds-584991e5aa5c?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
