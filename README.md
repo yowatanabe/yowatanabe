@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Reduce Development Environment Costs by Automatically Starting and Stopping RDS/Aurora](https://medium.com/@yoshiyuki.watanabe/how-to-reduce-development-environment-costs-by-automatically-starting-and-stopping-rds-aurora-34f9736251a1?source=rss-a0c403e0ca02------2)
 - [Practical FinOps with AWS Budgets: Automating Budget Management](https://medium.com/@yoshiyuki.watanabe/practical-finops-with-aws-budgets-automating-budget-management-556b4f4e4309?source=rss-a0c403e0ca02------2)
 - [Hands-On with Claude Sonnet 4 on Amazon Bedrock: Security Scan Summary &amp; Risk Re-Evaluation](https://devsecopsai.today/hands-on-with-claude-sonnet-4-on-amazon-bedrock-security-scan-summary-risk-re-evaluation-788078a4a051?source=rss-a0c403e0ca02------2)
 - [Getting Started with DefectDojo: Managing SAST and DAST Findings in One Place](https://medium.com/@yoshiyuki.watanabe/getting-started-with-defectdojo-managing-sast-and-dast-findings-in-one-place-945765f17123?source=rss-a0c403e0ca02------2)
 - [Automating Web Application Security Scans Using OWASP ZAP in AWS CodeBuild](https://medium.com/@yoshiyuki.watanabe/automating-web-application-security-scans-using-owasp-zap-in-aws-codebuild-127885449176?source=rss-a0c403e0ca02------2)
 - [Hands-On with Amazon Inspector’s Latest Feature: Code Security](https://medium.com/@yoshiyuki.watanabe/hands-on-with-amazon-inspectors-latest-feature-code-security-fd276d5520f3?source=rss-a0c403e0ca02------2)
 - [Getting Started with DAST: Detecting Vulnerabilities Early with GitHub Actions](https://medium.com/@yoshiyuki.watanabe/getting-started-with-dast-detecting-vulnerabilities-early-with-github-actions-ab8290d12d60?source=rss-a0c403e0ca02------2)
-- [Getting Started with SAST: Detecting Vulnerabilities Early with GitHub Actions](https://medium.com/@yoshiyuki.watanabe/getting-started-with-sast-detecting-vulnerabilities-early-with-github-actions-57ecd54e8ccb?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
