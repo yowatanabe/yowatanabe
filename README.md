@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tried Out the New GitHub Action for AWS Lambda Deployment — A Simpler Way to Deploy](https://medium.com/@yoshiyuki.watanabe/tried-out-the-new-github-action-for-aws-lambda-deployment-a-simpler-way-to-deploy-2276fcd14859?source=rss-a0c403e0ca02------2)
 - [Prevent AWS Access Key Leaks with git-secrets](https://medium.com/@yoshiyuki.watanabe/prevent-aws-access-key-leaks-with-git-secrets-694a29c68c31?source=rss-a0c403e0ca02------2)
 - [504 Gateway Timeout: Identifying Whether It’s ALB or the Backend](https://medium.com/@yoshiyuki.watanabe/504-gateway-timeout-identifying-whether-its-alb-or-the-backend-25d486717077?source=rss-a0c403e0ca02------2)
 - [Cutting Down on Cost Estimation Time with AWS Pricing MCP Server](https://medium.com/@yoshiyuki.watanabe/cutting-down-on-cost-estimation-time-with-aws-pricing-mcp-server-be36e4af27b9?source=rss-a0c403e0ca02------2)
 - [How to Investigate Deadlocks in RDS/Aurora MySQL](https://medium.com/@yoshiyuki.watanabe/how-to-investigate-deadlocks-in-rds-aurora-mysql-46705b818e5e?source=rss-a0c403e0ca02------2)
 - [How to Reduce Development Environment Costs by Automatically Starting and Stopping RDS/Aurora](https://medium.com/@yoshiyuki.watanabe/how-to-reduce-development-environment-costs-by-automatically-starting-and-stopping-rds-aurora-34f9736251a1?source=rss-a0c403e0ca02------2)
 - [Practical FinOps with AWS Budgets: Automating Budget Management](https://medium.com/@yoshiyuki.watanabe/practical-finops-with-aws-budgets-automating-budget-management-556b4f4e4309?source=rss-a0c403e0ca02------2)
-- [Hands-On with Claude Sonnet 4 on Amazon Bedrock: Security Scan Summary &amp; Risk Re-Evaluation](https://devsecopsai.today/hands-on-with-claude-sonnet-4-on-amazon-bedrock-security-scan-summary-risk-re-evaluation-788078a4a051?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
