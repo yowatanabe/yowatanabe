@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with LocalStack](https://medium.com/@yoshiyuki.watanabe/getting-started-with-localstack-c6fef0dcfad9?source=rss-a0c403e0ca02------2)
 - [Standardizing and Streamlining Workflows with workflow_call](https://medium.com/@yoshiyuki.watanabe/standardizing-and-streamlining-workflows-with-workflow-call-9f462cfedc00?source=rss-a0c403e0ca02------2)
 - [AWS Compute OptimizerがAurora I/O-Optimizedの推奨事項に対応したことで導入判断が容易になりました](https://zenn.dev/neinc_tech/articles/6cbd5b7ac6833d)
 - [A Useful AWS Update: ECS Exec via the Management Console](https://medium.com/@yoshiyuki.watanabe/a-useful-aws-update-ecs-exec-via-the-management-console-825a99829deb?source=rss-a0c403e0ca02------2)
 - [ECS ExecがAWSマネジメントコンソールで利用可能になりました](https://zenn.dev/yowatanabe/articles/9f453ed91ff9b8)
 - [Tried Out the New GitHub Action for AWS Lambda Deployment — A Simpler Way to Deploy](https://medium.com/@yoshiyuki.watanabe/tried-out-the-new-github-action-for-aws-lambda-deployment-a-simpler-way-to-deploy-2276fcd14859?source=rss-a0c403e0ca02------2)
 - [Prevent AWS Access Key Leaks with git-secrets](https://medium.com/@yoshiyuki.watanabe/prevent-aws-access-key-leaks-with-git-secrets-694a29c68c31?source=rss-a0c403e0ca02------2)
-- [504 Gateway Timeout: Identifying Whether It’s ALB or the Backend](https://medium.com/@yoshiyuki.watanabe/504-gateway-timeout-identifying-whether-its-alb-or-the-backend-25d486717077?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
