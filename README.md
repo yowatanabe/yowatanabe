@@ -17,7 +17,7 @@
 - [Flexible Terraform Module Design with Optional Attributes](https://medium.com/@yoshiyuki.watanabe/flexible-terraform-module-design-with-optional-attributes-5573dbc81ebb?source=rss-a0c403e0ca02------2)
 - [Getting Started with LocalStack](https://medium.com/@yoshiyuki.watanabe/getting-started-with-localstack-c6fef0dcfad9?source=rss-a0c403e0ca02------2)
 - [Standardizing and Streamlining Workflows with workflow_call](https://medium.com/@yoshiyuki.watanabe/standardizing-and-streamlining-workflows-with-workflow-call-9f462cfedc00?source=rss-a0c403e0ca02------2)
-- [A Useful AWS Update: ECS Exec via the Management Console](https://medium.com/@yoshiyuki.watanabe/a-useful-aws-update-ecs-exec-via-the-management-console-825a99829deb?source=rss-a0c403e0ca02------2)
+- [AWS Compute OptimizerがAurora I/O-Optimizedの推奨事項に対応したことで導入判断が容易になりました](https://zenn.dev/neinc_tech/articles/6cbd5b7ac6833d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
