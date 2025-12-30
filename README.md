@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Lambda Durable Functions: New Feature for Long-Running Workflows](https://medium.com/@yoshiyuki.watanabe/aws-lambda-durable-functions-new-feature-for-long-running-workflows-6a21dca7ef45?source=rss-a0c403e0ca02------2)
 - [Building a Chrome Extension While Learning Kiro](https://medium.com/@yoshiyuki.watanabe/building-a-chrome-extension-while-learning-kiro-4c2b5992c1c5?source=rss-a0c403e0ca02------2)
 - [Kiro入門のついでにChrome拡張機能を自作する](https://zenn.dev/neinc_tech/articles/2ea2457db30394)
 - [Hands-On Understanding of OWASP Top 10: Broken Access Control](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-broken-access-control-938dd7665848?source=rss-a0c403e0ca02------2)
 - [Hands-On Understanding of OWASP Top 10: Server-Side Request Forgery &lpar;SSRF&rpar;](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-server-side-request-forgery-ssrf-ebd091c48fa1?source=rss-a0c403e0ca02------2)
 - [Hands-On Understanding of OWASP Top 10: Injection](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-injection-7a47799d5d70?source=rss-a0c403e0ca02------2)
 - [The Infinite Loop That Happens When You Use FROM custom-image:latest in Dockerfile](https://medium.com/@yoshiyuki.watanabe/the-infinite-loop-that-happens-when-you-use-from-custom-image-latest-in-dockerfile-6cfcc786b73a?source=rss-a0c403e0ca02------2)
-- [JWT Verification Feature Added to Application Load Balancer](https://medium.com/@yoshiyuki.watanabe/jwt-verification-feature-added-to-application-load-balancer-fef3ce06b00a?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
