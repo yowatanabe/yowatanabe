@@ -11,13 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Recommending VS Code Debug Tools — Graduating from Print Debugging](https://medium.com/@yoshiyuki.watanabe/recommending-vs-code-debug-tools-graduating-from-print-debugging-118ebd4d7d04?source=rss-a0c403e0ca02------2)
-- [AWS Lambda Durable Functions: New Feature for Long-Running Workflows](https://medium.com/@yoshiyuki.watanabe/aws-lambda-durable-functions-new-feature-for-long-running-workflows-6a21dca7ef45?source=rss-a0c403e0ca02------2)
-- [Building a Chrome Extension While Learning Kiro](https://medium.com/@yoshiyuki.watanabe/building-a-chrome-extension-while-learning-kiro-4c2b5992c1c5?source=rss-a0c403e0ca02------2)
 - [Kiro入門のついでにChrome拡張機能を自作する](https://zenn.dev/neinc_tech/articles/2ea2457db30394)
-- [Hands-On Understanding of OWASP Top 10: Broken Access Control](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-broken-access-control-938dd7665848?source=rss-a0c403e0ca02------2)
-- [Hands-On Understanding of OWASP Top 10: Server-Side Request Forgery &lpar;SSRF&rpar;](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-server-side-request-forgery-ssrf-ebd091c48fa1?source=rss-a0c403e0ca02------2)
-- [Hands-On Understanding of OWASP Top 10: Injection](https://medium.com/@yoshiyuki.watanabe/hands-on-understanding-of-owasp-top-10-injection-7a47799d5d70?source=rss-a0c403e0ca02------2)
+- [AWS Compute OptimizerがAurora I/O-Optimizedの推奨事項に対応したことで導入判断が容易になりました](https://zenn.dev/neinc_tech/articles/6cbd5b7ac6833d)
+- [ECS ExecがAWSマネジメントコンソールで利用可能になりました](https://zenn.dev/yowatanabe/articles/9f453ed91ff9b8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
