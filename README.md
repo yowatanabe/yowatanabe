@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Hit a Byte Length Bug While Setting Up an ALB Maintenance Page with Terraform](https://medium.com/@yoshiyuki.watanabe/i-hit-a-byte-length-bug-while-setting-up-an-alb-maintenance-page-with-terraform-0491ad78d5c2?source=rss-a0c403e0ca02------2)
 - [Using Terraform’s chunklist to Handle ALB Listener Rule Condition Limits](https://medium.com/@yoshiyuki.watanabe/using-terraforms-chunklist-to-handle-alb-listener-rule-condition-limits-1beb5184e95e?source=rss-a0c403e0ca02------2)
 - [A Quick Refresher on ECS Task Role vs Task Execution Role](https://medium.com/@yoshiyuki.watanabe/a-quick-refresher-on-ecs-task-role-vs-task-execution-role-49d808a1285b?source=rss-a0c403e0ca02------2)
 - [The USHI LEVER Is the Most Satisfying Fidget Toy I’ve Ever Owned](https://medium.com/@yoshiyuki.watanabe/the-ushi-lever-is-the-most-satisfying-fidget-toy-ive-ever-owned-2301c4cf266f?source=rss-a0c403e0ca02------2)
 - [I amended and force pushed, then couldn’t pull on my other PC](https://medium.com/@yoshiyuki.watanabe/i-amended-and-force-pushed-then-couldnt-pull-on-my-other-pc-dc243253e85b?source=rss-a0c403e0ca02------2)
 - [The Related Resources Tab for Security Groups Is Now GA — See What’s Using Your SG at a Glance](https://medium.com/@yoshiyuki.watanabe/the-related-resources-tab-for-security-groups-is-now-ga-see-whats-using-your-sg-at-a-glance-c114f0dc9281?source=rss-a0c403e0ca02------2)
 - [Recommending VS Code Debug Tools — Graduating from Print Debugging](https://medium.com/@yoshiyuki.watanabe/recommending-vs-code-debug-tools-graduating-from-print-debugging-118ebd4d7d04?source=rss-a0c403e0ca02------2)
-- [AWS Lambda Durable Functions: New Feature for Long-Running Workflows](https://medium.com/@yoshiyuki.watanabe/aws-lambda-durable-functions-new-feature-for-long-running-workflows-6a21dca7ef45?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
