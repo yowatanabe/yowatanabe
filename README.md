@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Avoid Hardcoding API Keys in mcp.json](https://medium.com/@yoshiyuki.watanabe/how-to-avoid-hardcoding-api-keys-in-mcp-json-b129a8306132?source=rss-a0c403e0ca02------2)
 - [Why git clone Fails with “Password authentication is not supported” on AWS CloudShell](https://medium.com/@yoshiyuki.watanabe/why-git-clone-fails-with-password-authentication-is-not-supported-on-aws-cloudshell-68b1a779a17e?source=rss-a0c403e0ca02------2)
 - [How to Deploy AWS WAF Managed Rule Groups in Count Mode and Analyze Logs with CloudWatch Logs…](https://medium.com/@yoshiyuki.watanabe/how-to-deploy-aws-waf-managed-rule-groups-in-count-mode-and-analyze-logs-with-cloudwatch-logs-a8df4c67f528?source=rss-a0c403e0ca02------2)
 - [I Hit a Byte Length Bug While Setting Up an ALB Maintenance Page with Terraform](https://medium.com/@yoshiyuki.watanabe/i-hit-a-byte-length-bug-while-setting-up-an-alb-maintenance-page-with-terraform-0491ad78d5c2?source=rss-a0c403e0ca02------2)
 - [Using Terraform’s chunklist to Handle ALB Listener Rule Condition Limits](https://medium.com/@yoshiyuki.watanabe/using-terraforms-chunklist-to-handle-alb-listener-rule-condition-limits-1beb5184e95e?source=rss-a0c403e0ca02------2)
 - [A Quick Refresher on ECS Task Role vs Task Execution Role](https://medium.com/@yoshiyuki.watanabe/a-quick-refresher-on-ecs-task-role-vs-task-execution-role-49d808a1285b?source=rss-a0c403e0ca02------2)
 - [The USHI LEVER Is the Most Satisfying Fidget Toy I’ve Ever Owned](https://medium.com/@yoshiyuki.watanabe/the-ushi-lever-is-the-most-satisfying-fidget-toy-ive-ever-owned-2301c4cf266f?source=rss-a0c403e0ca02------2)
-- [I amended and force pushed, then couldn’t pull on my other PC](https://medium.com/@yoshiyuki.watanabe/i-amended-and-force-pushed-then-couldnt-pull-on-my-other-pc-dc243253e85b?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
