@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Aurora MySQL Backtrack](https://medium.com/@yoshiyuki.watanabe/understanding-aurora-mysql-backtrack-cbd42f1398b9?source=rss-a0c403e0ca02------2)
 - [Understanding ALB Sticky Sessions Through Hands-On Practice](https://medium.com/@yoshiyuki.watanabe/understanding-alb-sticky-sessions-through-hands-on-practice-4d784f3d70ba?source=rss-a0c403e0ca02------2)
 - [Recent CloudWatch Logs Insights Updates — Parameters, JOIN/sub-query, and Tag-Based Queries](https://medium.com/@yoshiyuki.watanabe/recent-cloudwatch-logs-insights-updates-parameters-join-sub-query-and-tag-based-queries-6102c4ba2d29?source=rss-a0c403e0ca02------2)
 - [How to Avoid Hardcoding API Keys in mcp.json](https://medium.com/@yoshiyuki.watanabe/how-to-avoid-hardcoding-api-keys-in-mcp-json-b129a8306132?source=rss-a0c403e0ca02------2)
 - [Why git clone Fails with “Password authentication is not supported” on AWS CloudShell](https://medium.com/@yoshiyuki.watanabe/why-git-clone-fails-with-password-authentication-is-not-supported-on-aws-cloudshell-68b1a779a17e?source=rss-a0c403e0ca02------2)
 - [How to Deploy AWS WAF Managed Rule Groups in Count Mode and Analyze Logs with CloudWatch Logs…](https://medium.com/@yoshiyuki.watanabe/how-to-deploy-aws-waf-managed-rule-groups-in-count-mode-and-analyze-logs-with-cloudwatch-logs-a8df4c67f528?source=rss-a0c403e0ca02------2)
 - [I Hit a Byte Length Bug While Setting Up an ALB Maintenance Page with Terraform](https://medium.com/@yoshiyuki.watanabe/i-hit-a-byte-length-bug-while-setting-up-an-alb-maintenance-page-with-terraform-0491ad78d5c2?source=rss-a0c403e0ca02------2)
-- [Using Terraform’s chunklist to Handle ALB Listener Rule Condition Limits](https://medium.com/@yoshiyuki.watanabe/using-terraforms-chunklist-to-handle-alb-listener-rule-condition-limits-1beb5184e95e?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
