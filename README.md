@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudWatch Logs Adds Support for ALB Logs: Analyze Access, Connection, and Health Check Logs…](https://medium.com/@yoshiyuki.watanabe/cloudwatch-logs-adds-support-for-alb-logs-analyze-access-connection-and-health-check-logs-b1a06b047869?source=rss-a0c403e0ca02------2)
 - [Amazon GuardDuty Now Supports Malware Scanning for S3 Continuous Backups](https://medium.com/@yoshiyuki.watanabe/amazon-guardduty-now-supports-malware-scanning-for-s3-continuous-backups-870262b35794?source=rss-a0c403e0ca02------2)
 - [Hands-On with Fn::GetStackOutput: The New AWS CloudFormation Intrinsic Function for Cross-Account…](https://medium.com/@yoshiyuki.watanabe/hands-on-with-fn-getstackoutput-the-new-aws-cloudformation-intrinsic-function-for-cross-account-46db1a13b3b8?source=rss-a0c403e0ca02------2)
 - [Understanding Aurora MySQL Backtrack](https://medium.com/@yoshiyuki.watanabe/understanding-aurora-mysql-backtrack-cbd42f1398b9?source=rss-a0c403e0ca02------2)
 - [Understanding ALB Sticky Sessions Through Hands-On Practice](https://medium.com/@yoshiyuki.watanabe/understanding-alb-sticky-sessions-through-hands-on-practice-4d784f3d70ba?source=rss-a0c403e0ca02------2)
 - [Recent CloudWatch Logs Insights Updates — Parameters, JOIN/sub-query, and Tag-Based Queries](https://medium.com/@yoshiyuki.watanabe/recent-cloudwatch-logs-insights-updates-parameters-join-sub-query-and-tag-based-queries-6102c4ba2d29?source=rss-a0c403e0ca02------2)
 - [How to Avoid Hardcoding API Keys in mcp.json](https://medium.com/@yoshiyuki.watanabe/how-to-avoid-hardcoding-api-keys-in-mcp-json-b129a8306132?source=rss-a0c403e0ca02------2)
-- [Why git clone Fails with “Password authentication is not supported” on AWS CloudShell](https://medium.com/@yoshiyuki.watanabe/why-git-clone-fails-with-password-authentication-is-not-supported-on-aws-cloudshell-68b1a779a17e?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
