@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SRE, DevOps, AWS, Go, Python, Terraform, SQL**
 
-- 📝 I regularly write articles on [https://medium.com/@yoshiyuki-watanabe](https://medium.com/@yoshiyuki-watanabe), [https://zenn.dev/yowatanabe](https://zenn.dev/yowatanabe)
+- 📝 I regularly write articles on [https://medium.com/@yoshiyuki-watanabe](https://medium.com/@yoshiyuki-watanabe), [https://dev.to/yoshiyuki-watanabe](https://dev.to/yoshiyuki-watanabe)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
