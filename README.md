@@ -11,9 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiro入門のついでにChrome拡張機能を自作する](https://zenn.dev/neinc_tech/articles/2ea2457db30394)
-- [AWS Compute OptimizerがAurora I/O-Optimizedの推奨事項に対応したことで導入判断が容易になりました](https://zenn.dev/neinc_tech/articles/6cbd5b7ac6833d)
-- [ECS ExecがAWSマネジメントコンソールで利用可能になりました](https://zenn.dev/yowatanabe/articles/9f453ed91ff9b8)
+- [Why S3 list-buckets Returns a CreationDate That Doesn&#39;t Match the Actual Bucket Creation Date](https://dev.to/aws-builders/why-s3-list-buckets-returns-a-creationdate-that-doesnt-match-the-actual-bucket-creation-date-a99)
+- [Why S3 list-buckets Returns a CreationDate That Doesn’t Match the Actual Bucket Creation Date](https://medium.com/@yoshiyuki-watanabe/why-s3-list-buckets-returns-a-creationdate-that-doesnt-match-the-actual-bucket-creation-date-c1333cb22146?source=rss-a0c403e0ca02------2)
+- [CloudWatch Logs Adds Support for ALB Logs: Analyze Access, Connection, and Health Check Logs…](https://medium.com/@yoshiyuki-watanabe/cloudwatch-logs-adds-support-for-alb-logs-analyze-access-connection-and-health-check-logs-b1a06b047869?source=rss-a0c403e0ca02------2)
+- [Amazon GuardDuty Now Supports Malware Scanning for S3 Continuous Backups](https://medium.com/@yoshiyuki-watanabe/amazon-guardduty-now-supports-malware-scanning-for-s3-continuous-backups-870262b35794?source=rss-a0c403e0ca02------2)
+- [Hands-On with Fn::GetStackOutput: The New AWS CloudFormation Intrinsic Function for Cross-Account…](https://medium.com/@yoshiyuki-watanabe/hands-on-with-fn-getstackoutput-the-new-aws-cloudformation-intrinsic-function-for-cross-account-46db1a13b3b8?source=rss-a0c403e0ca02------2)
+- [Understanding Aurora MySQL Backtrack](https://medium.com/@yoshiyuki-watanabe/understanding-aurora-mysql-backtrack-cbd42f1398b9?source=rss-a0c403e0ca02------2)
+- [Understanding ALB Sticky Sessions Through Hands-On Practice](https://medium.com/@yoshiyuki-watanabe/understanding-alb-sticky-sessions-through-hands-on-practice-4d784f3d70ba?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
