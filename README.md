@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SRE, DevOps, AWS, Go, Python, Terraform, SQL**
 
-- 📝 I regularly write articles on [https://medium.com/@yoshiyuki.watanabe](https://medium.com/@yoshiyuki.watanabe), [https://zenn.dev/yowatanabe](https://zenn.dev/yowatanabe)
+- 📝 I regularly write articles on [https://medium.com/@yoshiyuki-watanabe](https://medium.com/@yoshiyuki-watanabe), [https://zenn.dev/yowatanabe](https://zenn.dev/yowatanabe)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -18,7 +18,7 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoshiyuki-watanabe) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yoshiyuki.watanabe) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://yowatanabe.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yoshiyuki-watanabe) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yoshiyuki-watanabe) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yoshiyuki-watanabe) [![AWS Builder](https://img.shields.io/badge/AWS%20Builder-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/@yowatanabe) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://yowatanabe.github.io)
 
 ### Languages and Tools
 
