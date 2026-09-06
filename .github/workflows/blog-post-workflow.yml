@@ -10,6 +10,6 @@ jobs:
         steps: 
             - uses: actions/checkout@v7
             - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
+              with:
                 max_post_count: "7"
-                feed_list: "https://medium.com/feed/@yoshiyuki-watanabe, https://zenn.dev/yowatanabe/feed, https://dev.to/feed/yoshiyuki-watanabe"
+                feed_list: ${{ vars.BLOG_FEED_LIST }}
