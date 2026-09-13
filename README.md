@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Auto-Generating AWS Architecture Diagrams with the draw.io MCP Server](https://medium.com/@yoshiyuki-watanabe/auto-generating-aws-architecture-diagrams-with-the-draw-io-mcp-server-9a740d05ec72?source=rss-a0c403e0ca02------2)
 - [Kiro CLI のヘッドレスモードで Renovate の PR を要約させてみた](https://blog.serverworks.co.jp/kiro-cli-headless-renovate-summary)
+- [Why VSCode Commits Fail with “git: ‘secrets’ is not a git command” and How to Fix It](https://medium.com/@yoshiyuki-watanabe/why-vscode-commits-fail-with-git-secrets-is-not-a-git-command-and-how-to-fix-it-8a977b32c8d7?source=rss-a0c403e0ca02------2)
 - [AWS CloudShell の新機能「ビジュアルファイルエディター」を使ってみた](https://blog.serverworks.co.jp/aws-cloudshell-visual-file-editor)
 - [AWS CloudFormationのドリフト対応変更セットを使ってみた](https://blog.serverworks.co.jp/cloudformation-revert-drift)
 - [Why S3 list-buckets Returns a CreationDate That Doesn&#39;t Match the Actual Bucket Creation Date](https://dev.to/aws-builders/why-s3-list-buckets-returns-a-creationdate-that-doesnt-match-the-actual-bucket-creation-date-a99)
-- [AWSリソースの命名規則を決める時に気をつけたい制約](https://blog.serverworks.co.jp/aws-resource-naming-constraints)
-- [Kiro入門のついでにChrome拡張機能を自作する](https://zenn.dev/neinc_tech/articles/2ea2457db30394)
-- [AWS Compute OptimizerがAurora I/O-Optimizedの推奨事項に対応したことで導入判断が容易になりました](https://zenn.dev/neinc_tech/articles/6cbd5b7ac6833d)
+- [Why S3 list-buckets Returns a CreationDate That Doesn’t Match the Actual Bucket Creation Date](https://medium.com/@yoshiyuki-watanabe/why-s3-list-buckets-returns-a-creationdate-that-doesnt-match-the-actual-bucket-creation-date-c1333cb22146?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
