@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon ECS Console Now Centralizes Deployment Monitoring and Troubleshooting](https://medium.com/@yoshiyuki-watanabe/amazon-ecs-console-now-centralizes-deployment-monitoring-and-troubleshooting-e12e91a69e7d?source=rss-a0c403e0ca02------2)
 - [What Is Preflight? New Relic’s OSS Tool for Visualizing AI Coding Assistant Cost and Inefficiency](https://medium.com/@yoshiyuki-watanabe/what-is-preflight-new-relics-oss-tool-for-visualizing-ai-coding-assistant-cost-and-inefficiency-82b81d02f583?source=rss-a0c403e0ca02------2)
 - [Getting Started with New Relic APM](https://medium.com/@yoshiyuki-watanabe/getting-started-with-new-relic-apm-7220d6c0481b?source=rss-a0c403e0ca02------2)
 - [Auto-Generating AWS Architecture Diagrams with the draw.io MCP Server](https://medium.com/@yoshiyuki-watanabe/auto-generating-aws-architecture-diagrams-with-the-draw-io-mcp-server-9a740d05ec72?source=rss-a0c403e0ca02------2)
 - [Kiro CLI のヘッドレスモードで Renovate の PR を要約させてみた](https://blog.serverworks.co.jp/kiro-cli-headless-renovate-summary)
 - [Why VSCode Commits Fail with “git: ‘secrets’ is not a git command” and How to Fix It](https://medium.com/@yoshiyuki-watanabe/why-vscode-commits-fail-with-git-secrets-is-not-a-git-command-and-how-to-fix-it-8a977b32c8d7?source=rss-a0c403e0ca02------2)
 - [AWS CloudShell の新機能「ビジュアルファイルエディター」を使ってみた](https://blog.serverworks.co.jp/aws-cloudshell-visual-file-editor)
-- [AWS CloudFormationのドリフト対応変更セットを使ってみた](https://blog.serverworks.co.jp/cloudformation-revert-drift)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
