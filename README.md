@@ -11,13 +11,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS DevOps Agent Hands-on: Isolating the Cause of ALB Target 5xx Between ECS and Aurora](https://dev.to/aws-builders/aws-devops-agent-hands-on-isolating-the-cause-of-alb-target-5xx-between-ecs-and-aurora-2f4d)
+- [AWS DevOps Agent Hands-on: Isolating the Cause of ALB Target 5xx Between ECS and Aurora](https://medium.com/@yoshiyuki-watanabe/aws-devops-agent-hands-on-isolating-the-cause-of-alb-target-5xx-between-ecs-and-aurora-e3b6cd7b83a2?source=rss-a0c403e0ca02------2)
 - [Let Anthropic&#39;s claude-code-setup Recommend Hooks and Skills for a Repo with Almost No Claude Code Config](https://dev.to/yoshiyuki-watanabe/let-anthropics-claude-code-setup-recommend-hooks-and-skills-for-a-repo-with-almost-no-claude-code-6cn)
 - [Let Anthropic’s claude-code-setup Recommend Hooks and Skills for a Repo with Almost No Claude Code…](https://medium.com/@yoshiyuki-watanabe/let-anthropics-claude-code-setup-recommend-hooks-and-skills-for-a-repo-with-almost-no-claude-code-f266055d8e60?source=rss-a0c403e0ca02------2)
 - [Trying MiniStack and StackPort](https://dev.to/aws-builders/trying-ministack-and-stackport-110i)
 - [Trying MiniStack and StackPort](https://medium.com/@yoshiyuki-watanabe/trying-ministack-and-stackport-c5f3e109d44b?source=rss-a0c403e0ca02------2)
 - [How to Enable GitHub Repository Security Features in One Go with gh-secure](https://medium.com/@yoshiyuki-watanabe/how-to-enable-github-repository-security-features-in-one-go-with-gh-secure-0ca499ea71a5?source=rss-a0c403e0ca02------2)
-- [Amazon ECS Console Now Centralizes Deployment Monitoring and Troubleshooting](https://medium.com/@yoshiyuki-watanabe/amazon-ecs-console-now-centralizes-deployment-monitoring-and-troubleshooting-e12e91a69e7d?source=rss-a0c403e0ca02------2)
-- [What Is Preflight? New Relic’s OSS Tool for Visualizing AI Coding Assistant Cost and Inefficiency](https://medium.com/@yoshiyuki-watanabe/what-is-preflight-new-relics-oss-tool-for-visualizing-ai-coding-assistant-cost-and-inefficiency-82b81d02f583?source=rss-a0c403e0ca02------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
